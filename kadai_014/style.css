@@ -1,0 +1,37 @@
+html {
+  font-size: 20px;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+#first-heading {
+  font-size: 2.5rem;
+  /* ここでGoogleフォントを指定します */
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.skyblue {
+  color: skyblue;
+}
+.pink {
+  color: pink;
+}
+.font-test {
+  color: pink;
+}
+.font-child {
+  color: skyblue;
+}
+.container {
+  text-align: center;
+}
+.decoration {
+  letter-spacing: 1.2em;
+  text-shadow: 5px 5px 8px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+#basic {
+  font-weight: bold;
+}
